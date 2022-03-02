@@ -1,10 +1,9 @@
-### Jonathan Cabreira - [Data Scientist] 👋
+### Jonathan Cabreira - [Data Scientist]
 
 ## I am an electrical engineer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
 - 💻 I’m a Data Scientist
-- 💻 I'm also working as a Data Science Instructor
-- 📈 I’m constantly learning and Improving my skills 🤣
+- 📈 I’m always learning new skills. Learning never ends !
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
 
 ### Connect with me:
